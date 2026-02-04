@@ -1,1 +1,3 @@
 # MS_DS_TimeSeriesCourse_Project
+
+Project description
