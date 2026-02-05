@@ -1,0 +1,17 @@
+numpy==2.1.3
+pandas==2.2.3
+seaborn==0.13.2
+matplotlib==3.10.0
+sklearn==1.6.1
+joblib==1.4.2
+
+#Holt-Winters library
+statsmodels==0.14.4
+
+#Prophet Library
+prophet==1.3.0
+
+#XGBoost Libraries
+xgb==3.1.3
+skforecast==0.20.0
+scipy==1.15.1
